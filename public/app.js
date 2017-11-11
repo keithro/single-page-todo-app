@@ -1,0 +1,1 @@
+alert("Hi from index.js");
